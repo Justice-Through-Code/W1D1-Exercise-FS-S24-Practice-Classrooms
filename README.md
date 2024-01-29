@@ -7,7 +7,7 @@
 
 ### Estimated Time to Complete
 
-30 minutes
+60 minutes
 
 ---
 
